@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAndroidTest</string>
+
+    <string name="strDone">Done</string>
+    <string name="StrImage">Images</string>
+    <string name="loading">Please wait…</string>
+    <string name="strOK">OK</string>
+    <string name="strSomethingWrong">Something went wrong</string>
+    <string name="strListFailed">Failed to fetch list</string>
+</resources>
